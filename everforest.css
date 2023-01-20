@@ -16,5 +16,9 @@
 
 body {
   background-image: url("img/tiled.png");
-  background-size: contain;
+  /* background-size: contain; */
+}
+
+.you-firefox-addons-beacon {
+  display: none;
 }
